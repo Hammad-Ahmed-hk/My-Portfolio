@@ -16,4 +16,4 @@ This is my personal portfolio website where I showcase my projects, skills, and 
 - HTML, CSS, JavaScript
 
 ## Live Demo:
-(Add your deployed link here later)
+(https://hammad-ahmed-hk.github.io/My-Portfolio/)
